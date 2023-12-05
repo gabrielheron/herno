@@ -1,0 +1,22 @@
+@charset "UTF-8"
+
+
+body {
+    background-color: aqua;    
+    font-family: 'Times New Roman', Times, serif;
+    color: chocolate;
+}
+
+h1 {
+    color: darkgoldenrod;
+    background-color: burlywood;
+}
+
+a {
+    color: darkcyan;
+    text-decoration: darkgreen;
+    background-color: cornsilk;
+}
+
+
+
